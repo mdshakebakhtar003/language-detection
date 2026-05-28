@@ -239,7 +239,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙋‍♂️ Author
 
 **MD Shakeb**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@your-username](https://github.com/mdshakebakhtar003)
 
 ---
 
